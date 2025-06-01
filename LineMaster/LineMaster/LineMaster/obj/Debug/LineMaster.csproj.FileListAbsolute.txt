@@ -1,0 +1,11 @@
+C:\VS\Line\LineMaster\LineMaster\bin\Debug\LineMaster.exe.config
+C:\VS\Line\LineMaster\LineMaster\bin\Debug\LineMaster.exe
+C:\VS\Line\LineMaster\LineMaster\bin\Debug\LineMaster.pdb
+C:\VS\Line\LineMaster\LineMaster\obj\Debug\LineMaster.csproj.AssemblyReference.cache
+C:\VS\Line\LineMaster\LineMaster\obj\Debug\LineMaster.csproj.SuggestedBindingRedirects.cache
+C:\VS\Line\LineMaster\LineMaster\obj\Debug\LineMaster.Form1.resources
+C:\VS\Line\LineMaster\LineMaster\obj\Debug\LineMaster.Properties.Resources.resources
+C:\VS\Line\LineMaster\LineMaster\obj\Debug\LineMaster.csproj.GenerateResource.cache
+C:\VS\Line\LineMaster\LineMaster\obj\Debug\LineMaster.csproj.CoreCompileInputs.cache
+C:\VS\Line\LineMaster\LineMaster\obj\Debug\LineMaster.exe
+C:\VS\Line\LineMaster\LineMaster\obj\Debug\LineMaster.pdb
